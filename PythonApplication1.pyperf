@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>ac6cfba3-6403-4c95-a2c5-022d31ae5a1d</TargetProject>
+    <FriendlyName>PythonApplication1</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\timchang\AppData\Local\Temp\PythonApplication1_20150624.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
